@@ -1,0 +1,33 @@
+./client localhost rohant.in/
+./client localhost www.amazon.com
+./client localhost www.amazon.com/
+./client localhost www.google.com
+./client localhost www.google.com/
+./client localhost rohant.in/my.htm
+./client localhost rohant.in/publish.htm
+./client localhost rohant.in/home.htm
+./client localhost rohant.in/index.htm
+./client localhost rohant.in/cocur.htm
+./client localhost www.yahoo.com
+./client localhost www.yahoo.com/
+./client localhost in.news.yahoo.com
+./client localhost youtube.com
+./client localhost in.news.yahoo.com/
+./client localhost youtube.com/
+./client localhost www.youtube.com
+./client localhost www.youtube.com/
+./client localhost www.time.com
+./client localhost www.time.com/
+./client localhost www.ebizmba.com
+./client localhost www.ebizmba.com/
+./client localhost www.thebestdesigns.com
+./client localhost www.thebestdesigns.com/
+./client localhost www.i-am-bored.com
+./client localhost www.i-am-bored.com/
+./client localhost www.bestedsites.com
+./client localhost www.bestedsites.com/
+./client localhost www.google.co.in
+./client localhost www.google.co.in/
+./client localhost rohant.in/info.htm
+
+

@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>Rohan Tahiliani</title>
+<link rel="Stylesheet" href="style.css" type="text/css" />
+<meta name="description" content="Rohan Tahiliani"/>
+<meta name="keywords" content="Rohan Tahiliani, Rohan, Tahiliani, TSEC"/>
+<meta name="author" content="Rohan Tahiliani"/>
+<meta property="og:title" content="Rohan Tahiliani" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://rohant.in" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="Rohan Tahiliani" />
+<meta property="fb:admins" content="726670640" />
+<script src="script.js"></script>
+</head>
+<body onload=setTimeout("changenews(0)",1000);>
+<table id="Content">
+<tr>
+<td style="padding-right:10px" valign="top" id="menu">
+<img src="me.jpg" width="150px" height="150 px" /><br/><br/>
+
+<a href="home.htm" onclick="return loadIframe(this.href)">Profile</a><br/>
+<a href="exp.htm" onclick="return loadIframe(this.href)">Experience</a><br>
+<a href="proj.htm" onclick="return loadIframe(this.href)">Projects</a><br>
+<a href="achieve.htm" onclick="return loadIframe(this.href)">Achievements</a><br>
+<a href="publish.htm" onclick="return loadIframe(this.href)">Publications</a><br>
+<a href="cocur.htm" onclick="return loadIframe(this.href)">Co-curricular Activities</a><br>
+<a href="comp.htm" onclick="return loadIframe(this.href)">Computer Knowledge</a><br>
+<a href="edu.htm" onclick="return loadIframe(this.href)">Education</a><br>
+<a href="info.htm" onclick="return loadIframe(this.href)">Personal Information</a><br/>
+<a href="Resume.pdf" title='Right-click and "Save Link/Target As" to Download'>PDF version</a><br/><br/>
+
+<div>
+<a href="http://www.easycounter.com/" target="_blank">Visitors</a><br/>
+<img src="http://www.easycounter.com/counter.php?rohan_tahil" border="0">
+<br/><br/><a href="tsec.htm" onclick="return loadIframe(this.href)">Downloads</a>
+<br/><br/><a href="http://gatech.edu" target="_blank"><img src="gt.gif" width="100px" height="100px" style="padding-left:25px" /></a>
+<br/><br/><b>News Box</b><br/><textarea id="news" rows=5 cols=18 disabled=disabled style="overflow:hidden; resize:none;"></textarea>
+<br/><small>Updated: 6th Oct, 2011</small><br/>
+<small>Best viewed in </small<a href="http://google.com/chrome" target="_blank" title="Google Chrome" alt="Google Chrome">
+<img src="chrome.png" width="20px" height="20px" border=none /></a><br/><br/>
+</td>
+
+<td id="cont" valign="top">
+
+<div align="left">
+
+<h1>Rohan Tahiliani</h1>
+<iframe src="home.htm" name="cont" id="cont" scrolling="yes" frameborder="0" style="width:650px;height:560px;"></iframe>
+<br/><g:plusone href="http://rohant.in"></g:plusone>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script src="http://connect.facebook.net/en_US/all.js#appId=APP_ID&amp;xfbml=1"></script>
+<div id="fb-root" style="padding-top:5px">
+<fb:like href="http://rohant.in" layout="normal" show_faces="false" width="450" font="segoe ui" colorscheme="light"></fb:like></div>
+<br/>Please leave your feedback here:<br/> <fb:comments href="http://rohant.in" num_posts="5" width="500" migrated="1"></fb:comments>
+</div>
+</td>
+</tr>
+<tr>
+<td></td>
+<td align="right"></td>
+</table>
+</body>
+</html>
+4096
+3442
